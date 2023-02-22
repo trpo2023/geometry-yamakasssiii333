@@ -1,6 +1,8 @@
+main
 *.o
 .main.c.swp
 main.c~
-*.c#
+*.txt
+#main.c#
 Makefile~
-main
+
